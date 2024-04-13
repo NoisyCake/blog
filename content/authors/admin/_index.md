@@ -25,7 +25,7 @@ organizations:
     url: https://www.rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: Мои научные интересы включают в себя изучение работы и устройства компьютера и программирование на разных языках.
+bio: Мои интересы включают в себя изучение работы и устройства компьютера и программирование на разных языках.
 
 # Interests to show in About widget
 interests:
@@ -47,37 +47,47 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 55
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 45
+        icon: code
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: database
+        icon_pack: fas
+      - name: English
+        descryption: ''
+        percent: 90
+        icon: language
+        icon_pack: fas
+      - name: Math
+        description: ''
+        percent: 30
+        icon: less-than-equal
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Chess
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: chess-knight
         icon_pack: fas
-      - name: Cats
+      - name: Gaming
         description: ''
         percent: 100
-        icon: cat
+        icon: gamepad
         icon_pack: fas
-      - name: Photography
+      - name: Sound producer
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 70
+        icon: headphones
         icon_pack: fas
 
 # Social/Academic Networking
